@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <title>S B JAIN</title>
+</head>
+<body>
+    <p align="center" style="background-color:red">
+       <b>This is web page of S.B.jain</b>
+    </p>
+    <p align="left">
+       </p><u> This is web page of S.B.jain</u>
+     </p>
+     <p align="right">
+        This is web page of S.B.jain
+     </p>
+     <p align="justify">
+       <i>This is web page of S.B.jain</i>
+     </p>
+</body>
+</html>
